@@ -1,3 +1,13 @@
+<div align="center">
+	<img src="http://img.shields.io/static/v1?label=STATUS&message=Under%20Construction&color=RED&style=for-the-badge"/>
+</div>
+
+<br/>
+
+<h4 align="center">🚧 PROJECT under Construction 🚧 </h4>
+
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
